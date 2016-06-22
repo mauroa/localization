@@ -1,0 +1,629 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LCX SchemaVersion="6.0" Name="C:\GitHub\XVS\src\Messaging\Xamarin.Messaging.Client.Ssh\bin\Debug\Xamarin.Messaging.Client.Ssh.dll" PsrId="211" FileType="1" SrcCul="en-US" TgtCul="zh-TW" xmlns="http://schemas.microsoft.com/locstudio/2006/6/lcx">
+  <OwnedComments>
+    <Cmt Name="Dev" />
+    <Cmt Name="LcxAdmin" />
+    <Cmt Name="RCCX" />
+  </OwnedComments>
+  <Item ItemId=";Managed Resources" ItemType="0" PsrId="211" Leaf="true">
+    <Disp Icon="Expand" Expand="true" Disp="true" LocTbl="false" />
+  </Item>
+  <Item ItemId=";Version" ItemType="0" PsrId="211" Leaf="false">
+    <Disp Icon="Ver" Disp="true" LocTbl="false" Path=" \ ;Version \ 8 \ 0" />
+    <Item ItemId=";AssemblyVersion" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[99.0.0.2615]]></Val>
+        <Tgt Cat="Text" Orig="New">
+          <Val><![CDATA[99.0.0.2615]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+    </Item>
+    <Item ItemId=";CompanyName" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text">
+        <Val><![CDATA[Xamarin]]></Val>
+        <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+          <Val><![CDATA[!nh4s8!Xamarin 警稅!]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+    </Item>
+    <Item ItemId=";FileDescription" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text">
+        <Val><![CDATA[Xamarin.Messaging.Client]]></Val>
+        <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+          <Val><![CDATA[!Ua1Xp!Xamarin.Messaging.Client 警稅功!]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+    </Item>
+    <Item ItemId=";FileVersion" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[99.0.0]]></Val>
+        <Tgt Cat="Text" Orig="New">
+          <Val><![CDATA[99.0.0]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+    </Item>
+    <Item ItemId=";InternalName" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[Xamarin.Messaging.Client.Ssh.dll]]></Val>
+        <Tgt Cat="Text" Orig="New">
+          <Val><![CDATA[Xamarin.Messaging.Client.Ssh.dll]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+    </Item>
+    <Item ItemId=";LegalCopyright" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text">
+        <Val><![CDATA[Copyright © 2013]]></Val>
+        <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+          <Val><![CDATA[!UsArW!Copyright © 2013 警稅功!]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+    </Item>
+    <Item ItemId=";OriginalFilename" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[Xamarin.Messaging.Client.Ssh.dll]]></Val>
+        <Tgt Cat="Text" Orig="New">
+          <Val><![CDATA[Xamarin.Messaging.Client.Ssh.dll]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+    </Item>
+    <Item ItemId=";ProductName" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text">
+        <Val><![CDATA[Xamarin Visual Studio]]></Val>
+        <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+          <Val><![CDATA[!m9CQ6!Xamarin Visual Studio 警稅功!]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+    </Item>
+    <Item ItemId=";ProductVersion" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[99.0.0.2615-master-localization+7cf45bb]]></Val>
+        <Tgt Cat="Text" Orig="New">
+          <Val><![CDATA[99.0.0.2615-master-localization+7cf45bb]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+    </Item>
+  </Item>
+  <Item ItemId=";Xamarin.Messaging.Client.Ssh.Properties.Resources.resources" ItemType="0" PsrId="211" Leaf="false">
+    <Disp Icon="Expand" Expand="true" Disp="true" LocTbl="false" Path=" \ ;Managed Resources \ 0 \ 0" />
+    <Item ItemId=";Strings" ItemType="0" PsrId="211" Leaf="false">
+      <Disp Icon="Str" Disp="true" LocTbl="false" />
+      <Item ItemId=";AgentCommands_Check_Error" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[An error occurred while checking installed Agent {0}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!Nct9z!An error occurred while checking installed Agent {0} 警稅功鼊㘜 !]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";AgentCommands_Check_Run" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[An error occurred while checking running Agent {0}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!h3z4O!An error occurred while checking running Agent {0} 警稅功鼊㘜 !]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";AgentCommands_Install_Error" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[An error occurred while installing Agent {0}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!GBabG!An error occurred while installing Agent {0} 警稅功鼊㘜!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";AgentCommands_Uninstall_Error" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[An error occurred while uninstalling Agent {0}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!6aU4q!An error occurred while uninstalling Agent {0} 警稅功鼊㘜 !]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";AgentCommands_Verify_Error" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[An error occurred while verifying installed Agent {0} files]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!zd1zY!An error occurred while verifying installed Agent {0} files 警稅功鼊㘜 警!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";ApplicationMessageBuilder_SenderIdRequired" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Sender Id field is required to build an Application Message]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!YP8w3!Sender Id field is required to build an Application Message 警稅功鼊㘜 警!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+      </Item>
+      <Item ItemId=";ApplicationMessageBuilder_TopicRequired" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Topic field is required to build an Application Message]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!HFV1Q!Topic field is required to build an Application Message 警稅功鼊㘜 警!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+      </Item>
+      <Item ItemId=";BrokerCommands_Check_Error" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[An error occurred while checking installed Broker]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!77si5!An error occurred while checking installed Broker 警稅功鼊㘜 !]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+      </Item>
+      <Item ItemId=";BrokerCommands_Check_Run" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[An error occurred while checking running Broker]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!BiMwc!An error occurred while checking running Broker 警稅功鼊㘜 !]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+      </Item>
+      <Item ItemId=";BrokerCommands_Install_Error" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[An error occurred while installing Broker]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!FDMrH!An error occurred while installing Broker 警稅功鼊㘜!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+      </Item>
+      <Item ItemId=";BrokerCommands_Verify_Error" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[An error occurred while verifying installed Broker files]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!4AzH7!An error occurred while verifying installed Broker files 警稅功鼊㘜 警!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+      </Item>
+      <Item ItemId=";MessagingAuthenticationMethod_Error" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Unable to authenticate using the private key authentication method]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!pbXfP!Unable to authenticate using the private key authentication method 警稅功鼊㘜 警稅!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+      </Item>
+      <Item ItemId=";MessagingClient_ClientStopped" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[The client cannot be used because the connection has been disposed]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!ntxBi!The client cannot be used because the connection has been disposed 警稅功鼊㘜 警稅!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+      </Item>
+      <Item ItemId=";MessagingClient_PublishIncomplete" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[The response of the Post to topic {0} for client {1} was null.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!xdfYj!The response of the Post to topic {0} for client {1} was null. 警稅功鼊㘜 警!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} {Placeholder="{1}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";MessagingClient_SubscribeError" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[There was an error while trying to subscribe to response topic {0}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!oaHWY!There was an error while trying to subscribe to response topic {0} 警稅功鼊㘜 警稅!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";MessagingClient_SubscribeIncomplete" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[A subscription to response topic {0} couldn't be completed]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!NbhDQ!A subscription to response topic {0} couldn't be completed 警稅功鼊㘜 警!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";MessagingClient_UnderlyingClientDisconnected" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[No operation can be performed because the underlying client is disconnected]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!JFdkp!No operation can be performed because the underlying client is disconnected 警稅功鼊㘜 警稅功!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+      </Item>
+      <Item ItemId=";MessagingConnection_ClientAlreadyConnected" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[The connection is already started and couldn't be started again]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!Lw9th!The connection is already started and couldn't be started again 警稅功鼊㘜 警!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+      </Item>
+      <Item ItemId=";MessagingConnection_ConnectionIncomplete" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[The connection of the client {0} couldn't be completed]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!1y38h!The connection of the client {0} couldn't be completed 警稅功鼊㘜 !]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";MessagingConnection_UnderlyingClientError" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[There was an error while trying to connect the client {0} to the server.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!q6jRu!There was an error while trying to connect the client {0} to the server. 警稅功鼊㘜 警稅!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";MessagingReceiver_ClientStopped" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[The context cannot be used because the Client has been stopped.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!nrCiA!The context cannot be used because the Client has been stopped. 警稅功鼊㘜 警!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+      </Item>
+      <Item ItemId=";MessagingReceiver_SubscribeError" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[There was an error while trying to subscribe to topic {0}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!ySYb3!There was an error while trying to subscribe to topic {0} 警稅功鼊㘜 警!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";MessagingReceiver_SubscribeIncomplete" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[A subscription to topic {0} couldn't be completed]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!JC61C!A subscription to topic {0} couldn't be completed 警稅功鼊㘜 !]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";MessagingReceiver_UnderlyingClientDisconnected" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[No operation can be performed because the underlying client is disconnected]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!qHOQB!No operation can be performed because the underlying client is disconnected 警稅功鼊㘜 警稅功!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+      </Item>
+      <Item ItemId=";SshCommandExtensions_DefaultError" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[An error occurred while executing an SSH command. Error code: {0}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!GBC61!An error occurred while executing an SSH command. Error code: {0} 警稅功鼊㘜 警!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} {Locked="SSH"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";SshCommandRunner_Connect_Error" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Unable to connect to the Mac Server in order to execute the SSH command]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!RvW7s!Unable to connect to the Mac Server in order to execute the SSH command 警稅功鼊㘜 警稅!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Locked="Mac"} {Locked="SSH"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";SshCommandRunner_Executing_Error" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Exception executing '{0}']]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!uyHe0!Exception executing '{0}' 警稅功!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";SshCommandRunner_Executing_Message" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Executing SSH command '{0}'...]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!UeY4z!Executing SSH command '{0}'... 警稅功鼊!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} {Locked="SSH"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";SshCommandRunner_Failed" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Failed to execute '{0}': ExitStatus={1}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!jocgq!Failed to execute '{0}': ExitStatus={1} 警稅功鼊㘜!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Locked="ExitStatus"} {Placeholder="{0}"} {Placeholder="{1}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";SshCommands_ConfigurablePList" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[<?xml version="1.0" encoding="UTF-8"?>]D;]A;<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">]D;]A;<plist version="1.0">]D;]A;<dict>]D;]A;	<key>Label</key>]D;]A;	<string>com.xamarin.{1}</string>]D;]A;	<key>RunAtLoad</key>]D;]A;	<true/>]D;]A;	<key>LaunchOnlyOnce</key>]D;]A;	<true/>]D;]A;	<key>LimitLoadToSessionType</key>]D;]A;	<string>Aqua</string>]D;]A;	<key>StandardOutPath</key>]D;]A;	<string>{2}</string>]D;]A;	<key>StandardErrorPath</key>]D;]A;	<string>{3}</string>]D;]A;	<key>ProgramArguments</key>]D;]A;	<array>]D;]A;		<string>{0}</string>]D;]A;		{4}]D;]A;	</array>]D;]A;</dict>]D;]A;</plist>]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc" Confidence="100">
+            <Val><![CDATA[<?xml version="1.0" encoding="UTF-8"?>]D;]A;<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">]D;]A;<plist version="1.0">]D;]A;<dict>]D;]A;	<key>Label</key>]D;]A;	<string>com.xamarin.{1}</string>]D;]A;	<key>RunAtLoad</key>]D;]A;	<true/>]D;]A;	<key>LaunchOnlyOnce</key>]D;]A;	<true/>]D;]A;	<key>LimitLoadToSessionType</key>]D;]A;	<string>Aqua</string>]D;]A;	<key>StandardOutPath</key>]D;]A;	<string>{2}</string>]D;]A;	<key>StandardErrorPath</key>]D;]A;	<string>{3}</string>]D;]A;	<key>ProgramArguments</key>]D;]A;	<array>]D;]A;		<string>{0}</string>]D;]A;		{4}]D;]A;	</array>]D;]A;</dict>]D;]A;</plist>]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Locked} {Placeholder="{1}"} {Placeholder="{2}"} {Placeholder="{3}"} {Placeholder="{0}"} {Placeholder="{4}"} {Locked="Xamarin"} {Locked="PList"} {Locked="Apple"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";SshCommands_CouldNotStartAgentBecauseUserIsNotLoggedIn" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[The user '{0}' must be logged in on the mac in order to start the agent. Please make sure the user '{0}' is logged in and try to connect to the mac again.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!E7H9X!The user '{0}' must be logged in on the mac in order to start the agent. Please make sure the user '{0}' is logged in and try to connect to the mac again. 警稅功鼊㘜 警稅功鼊㘜 警稅功鼊!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} {Placeholder="{0}"} {Locked="Mac"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";SshCommands_MonoNotFound" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Could not find a Mono installation on the Mac.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!azqVO!Could not find a Mono installation on the Mac. 警稅功鼊㘜 !]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Locked="Mono"} {Locked="Mac"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";SshCommands_MonoNotFoundDiagnostics" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Probed locations for Mono on the Mac: {0}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!j0vJ8!Probed locations for Mono on the Mac: {0} 警稅功鼊㘜!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} {Locked="Mono"} {Locked="Mac"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";SshCommands_SshFolderCreationFailed" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[An error occurred while trying to create SSH folder.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!QKVDm!An error occurred while trying to create SSH folder. 警稅功鼊㘜 !]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Locked="SSH"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";SshCommands_SshKeysGenerationFailed" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[An error occurred while generating the SSH keys. Please check that the environment is properly configured.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!TQNNg!An error occurred while generating the SSH keys. Please check that the environment is properly configured. 警稅功鼊㘜 警稅功鼊㘜 !]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Locked="SSH"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";SshCommands_SshKeysGenerationFailedDetailed" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[An error occurred while generating the SSH keys. Please check that the environment is properly configured. Details: {0}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!R5Ad7!An error occurred while generating the SSH keys. Please check that the environment is properly configured. Details: {0} 警稅功鼊㘜 警稅功鼊㘜 警!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} {Locked="SSH"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";SshCommands_SshKeysRemovalFailed" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[An error occurred while removing SSH keys. Please check that the environment is properly configured.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!1Q1gf!An error occurred while removing SSH keys. Please check that the environment is properly configured. 警稅功鼊㘜 警稅功鼊㘜!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Locked="SSH"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";SshCommands_SshKeysRemovalFailedDetailed" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[An error occurred while removing SSH keys. Please check that the environment is properly configured. Details: {0}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!coBpO!An error occurred while removing SSH keys. Please check that the environment is properly configured. Details: {0} 警稅功鼊㘜 警稅功鼊㘜 !]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} {Locked="SSH"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";SshFingerprintRetriever_Failed" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Could not retrieve fingerprint.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!6ppMR!Could not retrieve fingerprint. 警稅功鼊!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+      </Item>
+      <Item ItemId=";SshMessagingConnection_DisconnectError" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[An error ocurred while trying to disconnect the Messaging Client]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!usAsh!An error ocurred while trying to disconnect the Messaging Client 警稅功鼊㘜 警!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Locked="Messaging"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";SshMessagingConnection_ReconnectError" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[An error occurred when trying to reconnect the SSH Session. The Messaging Client will be disconnected]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!k5XhV!An error occurred when trying to reconnect the SSH Session. The Messaging Client will be disconnected 警稅功鼊㘜 警稅功鼊㘜!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Locked="Messaging"} {Locked="SSH"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";SshMessagingConnection_SessionDisconnected" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[The SSH Session has been disconnected. Trying to reconnect...]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!MirCZ!The SSH Session has been disconnected. Trying to reconnect... 警稅功鼊㘜 警!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Locked="SSH"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";SshMessagingConnection_UnexpectedError" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[An unexpected error occurred on with the current SSH Session]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!xmnHi!An unexpected error occurred on with the current SSH Session 警稅功鼊㘜 警!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Locked="SSH"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";XmaCommands_Install_Error" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[An error occurred while trying to install {0}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!7dze2!An error occurred while trying to install {0} 警稅功鼊㘜!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";XmaCommands_Verify_Checksum_Error" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Checksum failed for '{0}']]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!q0iNM!Checksum failed for '{0}' 警稅功!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";XmaCommands_Verify_Error" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[An error occurred while verifying installed {0}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!mB3cK!An error occurred while verifying installed {0} 警稅功鼊㘜 !]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";XmaCommands_Verify_NotFound" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Unable to verify files because '{0}' was not found]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!MOBFB!Unable to verify files because '{0}' was not found 警稅功鼊㘜 !]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+    </Item>
+  </Item>
+  <Item ItemId=";Version" ItemType="8" PsrId="211" Leaf="true">
+    <Disp Icon="Expand" Expand="true" Disp="true" LocTbl="false" />
+  </Item>
+</LCX>

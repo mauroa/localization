@@ -1,0 +1,569 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LCX SchemaVersion="6.0" Name="C:\GitHub\XVS\src\Messaging\Xamarin.Messaging.Client\bin\Debug\Xamarin.Messaging.Client.dll" PsrId="211" FileType="1" SrcCul="en-US" TgtCul="es-ES" xmlns="http://schemas.microsoft.com/locstudio/2006/6/lcx">
+  <OwnedComments>
+    <Cmt Name="Dev" />
+    <Cmt Name="LcxAdmin" />
+    <Cmt Name="RCCX" />
+  </OwnedComments>
+  <Item ItemId=";Managed Resources" ItemType="0" PsrId="211" Leaf="true">
+    <Disp Icon="Expand" Expand="true" Disp="true" LocTbl="false" />
+  </Item>
+  <Item ItemId=";Version" ItemType="0" PsrId="211" Leaf="false">
+    <Disp Icon="Ver" Disp="true" LocTbl="false" Path=" \ ;Version \ 8 \ 0" />
+    <Item ItemId=";AssemblyVersion" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[99.0.0.2615]]></Val>
+        <Tgt Cat="Text" Orig="New">
+          <Val><![CDATA[99.0.0.2615]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+    </Item>
+    <Item ItemId=";CompanyName" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text">
+        <Val><![CDATA[Xamarin]]></Val>
+        <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+          <Val><![CDATA[!iZgi6!Xamarin ýÛ!]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+    </Item>
+    <Item ItemId=";FileDescription" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text">
+        <Val><![CDATA[Xamarin.Messaging.Client]]></Val>
+        <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+          <Val><![CDATA[!E1nKb!Xamarin.Messaging.Client ýÛö!]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+    </Item>
+    <Item ItemId=";FileVersion" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[99.0.0]]></Val>
+        <Tgt Cat="Text" Orig="New">
+          <Val><![CDATA[99.0.0]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+    </Item>
+    <Item ItemId=";InternalName" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[Xamarin.Messaging.Client.dll]]></Val>
+        <Tgt Cat="Text" Orig="New">
+          <Val><![CDATA[Xamarin.Messaging.Client.dll]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+    </Item>
+    <Item ItemId=";LegalCopyright" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text">
+        <Val><![CDATA[Copyright © 2013]]></Val>
+        <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+          <Val><![CDATA[!AYsNZ!Copyright © 2013 ýÛö!]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+    </Item>
+    <Item ItemId=";OriginalFilename" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[Xamarin.Messaging.Client.dll]]></Val>
+        <Tgt Cat="Text" Orig="New">
+          <Val><![CDATA[Xamarin.Messaging.Client.dll]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+    </Item>
+    <Item ItemId=";ProductName" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text">
+        <Val><![CDATA[Xamarin Visual Studio]]></Val>
+        <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+          <Val><![CDATA[!gx5hi!Xamarin Visual Studio ýÛö!]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+    </Item>
+    <Item ItemId=";ProductVersion" ItemType="0" PsrId="211" Leaf="true">
+      <Str Cat="Text" DevLk="true">
+        <Val><![CDATA[99.0.0.2615-master-localization+7cf45bb]]></Val>
+        <Tgt Cat="Text" Orig="New">
+          <Val><![CDATA[99.0.0.2615-master-localization+7cf45bb]]></Val>
+        </Tgt>
+      </Str>
+      <Disp Icon="Str" />
+    </Item>
+  </Item>
+  <Item ItemId=";Xamarin.Messaging.Client.Properties.Resources.resources" ItemType="0" PsrId="211" Leaf="false">
+    <Disp Icon="Expand" Expand="true" Disp="true" LocTbl="false" Path=" \ ;Managed Resources \ 0 \ 0" />
+    <Item ItemId=";Strings" ItemType="0" PsrId="211" Leaf="false">
+      <Disp Icon="Str" Disp="true" LocTbl="false" />
+      <Item ItemId=";AgentConsoleRunner_ConnectFailed" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Failed to connect agent {0} to the Broker]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!Y54AX!Failed to connect agent {0} to the Broker ýÛöÑé!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";AgentConsoleRunner_Error" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[An unexpected error occurred and the agent '{0} {1}' will be terminated]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!HnnUR!An unexpected error occurred and the agent '{0} {1}' will be terminated ýÛöÑéÎåÀ!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} {Placeholder="{1}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";AgentConsoleRunner_Starting" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Starting {0} {1}...]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!ngGVa!Starting {0} {1}... ýÛö!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} {Placeholder="{1}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";Agent_Started" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[{0} {1} agent started]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!LHwNg!{0} {1} agent started ýÛö!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} {Placeholder="{1}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";Agent_Starting" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Starting Agent: {0} {1} (PID={2})]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!GJn3T!Starting Agent: {0} {1} (PID={2}) ýÛöÑ!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Locked="PID"} {Placeholder="{0}"} {Placeholder="{1}"} {Placeholder="{2}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";Agent_Stopping" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Stopping Agent: {0}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!xb96D!Stopping Agent: {0} ýÛö!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";ApplicationMessageBuilder_SenderIdRequired" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Sender Id field is required to build an Application Message]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!sppDx!Sender Id field is required to build an Application Message ýÛöÑéÎå!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+      </Item>
+      <Item ItemId=";ApplicationMessageBuilder_TopicRequired" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Topic field is required to build an Application Message]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!nopAP!Topic field is required to build an Application Message ýÛöÑéÎå!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+      </Item>
+      <Item ItemId=";ApplicationMessageExtensions_ContentSerializerError" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[An error occured while deserializing the content of an Application Message for topic {0}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!hW11j!An error occured while deserializing the content of an Application Message for topic {0} ýÛöÑéÎåÀŠ !]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";ApplicationMessageExtensions_IncompatibleContentType" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Payload Type {0} is incompatible with the requested content type {1}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!zdUBG!Payload Type {0} is incompatible with the requested content type {1} ýÛöÑéÎåÀ!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} {Placeholder="{1}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";ExceptionSerializer_Error_OriginalType" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Original Type: {0} - {1}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!lpe3D!Original Type: {0} - {1} ýÛö!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} {Placeholder="{1}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";ExceptionSerializer_InvalidType" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[The type {0} cannot be serialized or deserialized as an Exception type]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!M2xWC!The type {0} cannot be serialized or deserialized as an Exception type ýÛöÑéÎåÀ!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";MessageHandlerManager_MessageHandlerError" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[An error occurred while handling a message of type {0}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!MqFFY!An error occurred while handling a message of type {0} ýÛöÑéÎ!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";MessageHandlerManager_RegisteringMessageHandler" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Registering message handler '{0}']]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!d34uL!Registering message handler '{0}' ýÛöÑ!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";MessageHandlerManager_RegisteringRequestHandler" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Registering request handler '{0}']]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!KQLi5!Registering request handler '{0}' ýÛöÑ!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";MessageHandlerManager_RequestHandlerError" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[An error occurred while handling a request of type {0}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!2UNI3!An error occurred while handling a request of type {0} ýÛöÑéÎ!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";MessagingClient_ClientStopped" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[The client cannot be used because the connection has been disposed]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!ukNUD!The client cannot be used because the connection has been disposed ýÛöÑéÎåÀ!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+      </Item>
+      <Item ItemId=";MessagingClient_PostCancelled" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[The post for client {0} on topic {1} has been cancelled]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!jiXpp!The post for client {0} on topic {1} has been cancelled ýÛöÑéÎå!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} {Placeholder="{1}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";MessagingClient_PostError" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[An error occured on client {0} while executing a post for topic {1}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!lcWoB!An error occured on client {0} while executing a post for topic {1} ýÛöÑéÎåÀ!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} {Placeholder="{1}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";MessagingClient_PublishIncomplete" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[The client {0} has been disconnected while waiting a post response to topic {1}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!FZzJ6!The client {0} has been disconnected while waiting a post response to topic {1} ýÛöÑéÎåÀŠ!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} {Placeholder="{1}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";MessagingClient_PublishReceiverError" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[An error occured on the receiver while executing a post for topic {0} and client {1}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!uE0Vy!An error occured on the receiver while executing a post for topic {0} and client {1} ýÛöÑéÎåÀŠ!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} {Placeholder="{1}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";MessagingClient_ReceivedResponse" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Received Response of {0} to topic {1}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!aTx0W!Received Response of {0} to topic {1} ýÛöÑé!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} {Placeholder="{1}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";MessagingClient_ReceiverNotFound" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Client {0} - There was an error while posting a message to topic {1}. There were no receiver listening to that topic.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!4IvUr!Client {0} - There was an error while posting a message to topic {1}. There were no receiver listening to that topic. ýÛöÑéÎåÀŠ ýÛö!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} {Placeholder="{1}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";MessagingClient_ReplyError" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[An error occured on client {0} while executing a reply for topic {1}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!pOQa0!An error occured on client {0} while executing a reply for topic {1} ýÛöÑéÎåÀ!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} {Placeholder="{1}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";MessagingClient_SendError" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[An error occured on client {0} while executing a send for topic {1}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!f65OR!An error occured on client {0} while executing a send for topic {1} ýÛöÑéÎåÀ!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} {Placeholder="{1}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";MessagingClient_SendingMessage" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Sending Message {0} to topic {1}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!PB9c0!Sending Message {0} to topic {1} ýÛöÑ!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} {Placeholder="{1}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";MessagingClient_SendingReply" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Sending Reply {0} to topic {1}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!U2Q6Q!Sending Reply {0} to topic {1} ýÛöÑ!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} {Placeholder="{1}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";MessagingClient_SendingRequest" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Sending Request {0} to topic {1}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!k8iOT!Sending Request {0} to topic {1} ýÛöÑ!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} {Placeholder="{1}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";MessagingClient_SubscribeError" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[There was an error while trying to subscribe to response topic {0}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!rbMpp!There was an error while trying to subscribe to response topic {0} ýÛöÑéÎåÀ!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";MessagingClient_SubscribeIncomplete" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[A subscription to response topic {0} couldn't be completed]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!6lICW!A subscription to response topic {0} couldn't be completed ýÛöÑéÎå!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";MessagingClient_UnderlyingClientDisconnected" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[No operation can be performed on client {0} because the underlying client was disconnected]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!vtqs1!No operation can be performed on client {0} because the underlying client was disconnected ýÛöÑéÎåÀŠ !]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";MessagingConnection_ClientAlreadyConnected" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[The connection is already started and couldn't be started again]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!0qEzC!The connection is already started and couldn't be started again ýÛöÑéÎå!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+      </Item>
+      <Item ItemId=";MessagingConnection_ConnectionIncomplete" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[The connection of the client {0} couldn't be completed]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!QSxt0!The connection of the client {0} couldn't be completed ýÛöÑéÎ!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";MessagingConnection_UnderlyingClientError" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[There was an error while trying to connect the client {0} to the server.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!ACgrL!There was an error while trying to connect the client {0} to the server. ýÛöÑéÎåÀ!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";MessagingReceiver_ClientStopped" ItemType="0" PsrId="211" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[The context cannot be used because the Client has been stopped.]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!4Reok!The context cannot be used because the Client has been stopped. ýÛöÑéÎå!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+      </Item>
+      <Item ItemId=";MessagingReceiver_SubscribeError" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[There was an error while trying to subscribe to topic {0}]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!45kn1!There was an error while trying to subscribe to topic {0} ýÛöÑéÎå!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";MessagingReceiver_SubscribeIncomplete" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[A subscription to topic {0} couldn't be completed]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!NXwiF!A subscription to topic {0} couldn't be completed ýÛöÑéÎ!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";MessagingReceiver_UnderlyingClientDisconnected" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[No operation can be performed on client {0} because the underlying client was disconnected]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!qxL2Y!No operation can be performed on client {0} because the underlying client was disconnected ýÛöÑéÎåÀŠ !]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";RequestHandler_WrongType" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[Contract must be of type '{0}']]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!HRMuj!Contract must be of type '{0}' ýÛöÑ!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+      <Item ItemId=";StringSerializer_InvalidType" ItemType="0" PsrId="211" InstFlg="true" Leaf="true">
+        <Str Cat="Text">
+          <Val><![CDATA[The type {0} cannot be serialized or deserialized as an string]]></Val>
+          <Tgt Cat="Text" Stat="Loc" Orig="PseudoLoc">
+            <Val><![CDATA[!FiWpd!The type {0} cannot be serialized or deserialized as an string ýÛöÑéÎå!]]></Val>
+          </Tgt>
+        </Str>
+        <Disp Icon="Str" />
+        <Cmts>
+          <Cmt Name="RCCX"><![CDATA[{Placeholder="{0}"} ]]></Cmt>
+        </Cmts>
+      </Item>
+    </Item>
+  </Item>
+  <Item ItemId=";Version" ItemType="8" PsrId="211" Leaf="true">
+    <Disp Icon="Expand" Expand="true" Disp="true" LocTbl="false" />
+  </Item>
+</LCX>
